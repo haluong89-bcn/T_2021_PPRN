@@ -16,7 +16,7 @@ https://rdpackages.github.io/replication
 
 ## Reference
 
-- Slides: [pdf](https://raw.githubusercontent.com/rdpackages-replication/T_2021_PPRN/master/T_2021_PPRN.pdf).
+- Slides: [pdf](T_2021_PPRN.pdf).
 
 - Video: [https://www.chamberlainseminar.org](https://www.chamberlainseminar.org)
 
