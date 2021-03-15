@@ -18,7 +18,7 @@ https://rdpackages.github.io/replication
 
 - Slides: [pdf](T_2021_PPRN.pdf).
 
-- Video: [https://www.chamberlainseminar.org](https://www.chamberlainseminar.org)
+- PPRN: [https://www.publicpolicyresearchnetwork.com](https://www.publicpolicyresearchnetwork.com)
 
 
 <br><br>
